@@ -82,3 +82,5 @@ main.py               # Command-line interface
 ## License
 
 This project is provided as-is for demonstration purposes.
+# Epistolary
+Letterwritting App for Joshua Sellers
