@@ -1,4 +1,4 @@
-# Joshland Journal
+# JaiSellers Index
 
 A static editorial blog featuring essays on design, travel, culture, and intentional living.
 
